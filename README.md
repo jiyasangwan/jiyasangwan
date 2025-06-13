@@ -22,7 +22,6 @@
 - 🎯 Passionate about crafting solutions that simplify everyday tasks and improve user experience
 
 ---
-
 ### 🛠️ Tech Stack
 
 | Front-End                      | Back-End                     | Database                  | Tools                   | Deployment     | Others                    |
